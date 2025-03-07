@@ -21,7 +21,7 @@ We use **synthetic sales data** with daily sales for the last 100 days.
 
 🔹 Installation & Usage  
 1️⃣ Clone this repository: 
-git clone https://github.com/your-username/ML-Sales-Forecasting.git
+git clone https://github.com/Anshu001-collab/ML-Sales-Forecasting.git
 cd ML-Sales-Forecasting
 
 2️⃣ Install dependencies:
